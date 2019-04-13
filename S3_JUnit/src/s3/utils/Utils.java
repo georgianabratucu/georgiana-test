@@ -86,5 +86,6 @@ public final class Utils {
 	}
 	public static void afisare(){
 		System.out.println("nou");
+		//
 	}
 }
