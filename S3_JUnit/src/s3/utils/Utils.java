@@ -84,4 +84,7 @@ public final class Utils {
 			ma += v[i];
 		return ma/v.length;
 	}
+	public static void afisare(){
+		System.out.println("nou");
+	}
 }
