@@ -33,5 +33,5 @@ public class Companie {
 		return listaSalariati.size();
 	}
 
-	///aici am modificat ceva
+	///aici am modificat ceva dndhddddd
 }
