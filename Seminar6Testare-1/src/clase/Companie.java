@@ -32,4 +32,6 @@ public class Companie {
 	public int getNumarSalariati() {
 		return listaSalariati.size();
 	}
+
+	///aici am modificat ceva
 }
